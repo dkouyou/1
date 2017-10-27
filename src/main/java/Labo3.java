@@ -1,5 +1,5 @@
 
-public class Main {
+public class Labo3 {
 
 	public static void main(String[] args) {
 		

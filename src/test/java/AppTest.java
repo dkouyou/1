@@ -33,7 +33,7 @@ public class AppTest
      */
     public void testMain()
     {
-    	int resultat = Main.compter(5, 4);
+    	int resultat = Labo3.compter(5, 4);
         assertEquals(resultat,9 );
     }
 }
