@@ -31,8 +31,9 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testMain()
     {
-        assertTrue( true );
+    	int resultat = Main.compter(5, 4);
+        assertEquals(resultat,9 );
     }
 }
